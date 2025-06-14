@@ -36,6 +36,8 @@ print(f"I'm very sorry but {no_longer_invited} you are no longer invited")
 
 print(f"I can't wait to see {guest_list[0]} and {guest_list[1]} in my party!")
 
+print(f"The amount of people invited to my party is {len(guest_list)}")
+
 del guest_list[1]
 del guest_list[0]
 
