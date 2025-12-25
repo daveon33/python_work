@@ -1,2 +1,2 @@
-message = "Hello David! I see you are learning Python..."
-print(message)
+name = "David"
+print(f"Hello {name}, how are you feeling today?")
