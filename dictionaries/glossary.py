@@ -8,4 +8,4 @@ programming_words = {
 }
 
 for word, meaning in programming_words.items():
-    print(f"{word} {meaning} \n")
+    print(f"{word} is a {meaning} \n")
