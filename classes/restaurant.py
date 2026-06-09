@@ -9,4 +9,8 @@ class Restaurant():
 
 
 my_restaurant = Restaurant("Loom", "Vegan")
+my_restaurant_two = Restaurant("Chiqui", "Mexican")
+my_restaurant_three = Restaurant("Lotus", "Japanese")
 my_restaurant.describe_restaurant()
+my_restaurant_two.describe_restaurant()
+my_restaurant_three.describe_restaurant()
