@@ -1,0 +1,5 @@
+In python you can create variable
+In python you can loop through data
+In python you can store data in lists
+In python you can abstract concepts using classes
+In python you can read files and work with them
