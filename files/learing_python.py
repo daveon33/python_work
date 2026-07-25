@@ -1,6 +1,6 @@
 from pathlib import Path
 
-path = Path('files\learning_python.txt')
+path = Path('files\text_files\learning_python.txt')
 contents = path.read_text()
 print(contents)
 

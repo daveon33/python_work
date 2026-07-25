@@ -1,6 +1,6 @@
 from pathlib import Path
 
-path = Path('files\guest.txt')
+path = Path('files\text_files\guest.txt')
 our_guests = ""
 
 while(True):
