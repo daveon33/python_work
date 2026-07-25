@@ -7,6 +7,6 @@ for file in files:
         path = Path(file)
         print(path.read_text())
     except FileNotFoundError:
-        print(f"The file {file} was not found!")
+        pass
 
 
