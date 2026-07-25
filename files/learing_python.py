@@ -3,9 +3,8 @@ from pathlib import Path
 path = Path('files\learning_python.txt')
 contents = path.read_text()
 print(contents)
-lines = contents.splitlines()
 
-for line in lines:
+for line in contents.splitlines():
     print(line.replace('python', 'c'))
     
 
